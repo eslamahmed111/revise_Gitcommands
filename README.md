@@ -2,4 +2,6 @@
 Revise Git and Github commands
 
 
-#Project Notes
+# Project Notes
+
+## Rules
